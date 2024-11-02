@@ -1,0 +1,15 @@
+
+    ------------------------------
+    DOX Template
+    ------------------------------
+    Name: Sifer
+    Age: 1
+    Date of Birth: 1
+    Address: 1
+    Phone: 1
+    Email: 1
+    Card Number: 1
+    Social Media: 1
+    Additional Info: 1
+    ------------------------------
+    
